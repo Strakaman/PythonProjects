@@ -1,0 +1,2830 @@
+{
+    "1": {
+        "name": "Brandon  Goodwin",
+        "pos": ""
+    },
+    "101106": {
+        "name": "Andrew Bogut",
+        "pos": "C"
+    },
+    "101107": {
+        "name": "Marvin Williams",
+        "pos": "F"
+    },
+    "101108": {
+        "name": "Chris Paul",
+        "pos": "G"
+    },
+    "101109": {
+        "name": "Raymond Felton",
+        "pos": "G"
+    },
+    "101112": {
+        "name": "Channing Frye",
+        "pos": "F-C"
+    },
+    "101123": {
+        "name": "Gerald Green",
+        "pos": "G-F"
+    },
+    "101127": {
+        "name": "Jarrett Jack",
+        "pos": ""
+    },
+    "101133": {
+        "name": "Ian Mahinmi",
+        "pos": "C"
+    },
+    "101139": {
+        "name": "CJ Miles",
+        "pos": "F-G"
+    },
+    "101141": {
+        "name": "Ersan Ilyasova",
+        "pos": "F"
+    },
+    "101150": {
+        "name": "Lou Williams",
+        "pos": "G"
+    },
+    "101161": {
+        "name": "Amir Johnson",
+        "pos": "C-F"
+    },
+    "101162": {
+        "name": "Marcin Gortat",
+        "pos": ""
+    },
+    "101181": {
+        "name": "Jose Calderon",
+        "pos": "G"
+    },
+    "1626143": {
+        "name": "Jahlil Okafor",
+        "pos": "C"
+    },
+    "1626144": {
+        "name": "Emmanuel Mudiay",
+        "pos": "G"
+    },
+    "1626145": {
+        "name": "Tyus Jones",
+        "pos": "G"
+    },
+    "1626147": {
+        "name": "Justin Anderson",
+        "pos": "G-F"
+    },
+    "1626149": {
+        "name": "Montrezl Harrell",
+        "pos": "F-C"
+    },
+    "1626150": {
+        "name": "Andrew Harrison",
+        "pos": ""
+    },
+    "1626153": {
+        "name": "Delon Wright",
+        "pos": "G"
+    },
+    "1626154": {
+        "name": "RJ Hunter",
+        "pos": "G"
+    },
+    "1626155": {
+        "name": "Sam Dekker",
+        "pos": "F"
+    },
+    "1626156": {
+        "name": "D'Angelo Russell",
+        "pos": "G"
+    },
+    "1626157": {
+        "name": "Karl-Anthony Towns",
+        "pos": "C"
+    },
+    "1626158": {
+        "name": "Richaun Holmes",
+        "pos": "F-C"
+    },
+    "1626159": {
+        "name": "Justise Winslow",
+        "pos": "F"
+    },
+    "1626161": {
+        "name": "Willie Cauley-Stein",
+        "pos": "C"
+    },
+    "1626162": {
+        "name": "Kelly Oubre Jr.",
+        "pos": "F"
+    },
+    "1626163": {
+        "name": "Frank Kaminsky",
+        "pos": "F-C"
+    },
+    "1626164": {
+        "name": "Devin Booker",
+        "pos": "G"
+    },
+    "1626166": {
+        "name": "Cameron Payne",
+        "pos": ""
+    },
+    "1626167": {
+        "name": "Myles Turner",
+        "pos": "C-F"
+    },
+    "1626168": {
+        "name": "Trey Lyles",
+        "pos": "F"
+    },
+    "1626169": {
+        "name": "Stanley Johnson",
+        "pos": "F"
+    },
+    "1626170": {
+        "name": "Jerian Grant",
+        "pos": "G"
+    },
+    "1626171": {
+        "name": "Bobby Portis",
+        "pos": "F"
+    },
+    "1626172": {
+        "name": "Kevon Looney",
+        "pos": "C-F"
+    },
+    "1626174": {
+        "name": "Christian Wood",
+        "pos": "F"
+    },
+    "1626178": {
+        "name": "Rondae Hollis-Jefferson",
+        "pos": "F"
+    },
+    "1626179": {
+        "name": "Terry Rozier",
+        "pos": "G"
+    },
+    "1626181": {
+        "name": "Norman Powell",
+        "pos": "F-G"
+    },
+    "1626184": {
+        "name": "Chasson Randle",
+        "pos": "G"
+    },
+    "1626185": {
+        "name": "Jarell Martin",
+        "pos": "F"
+    },
+    "1626187": {
+        "name": "Michael Frazier",
+        "pos": "G"
+    },
+    "1626188": {
+        "name": "Quinn Cook",
+        "pos": "G"
+    },
+    "1626192": {
+        "name": "Pat Connaughton",
+        "pos": "G"
+    },
+    "1626195": {
+        "name": "Willy Hernangomez",
+        "pos": "C"
+    },
+    "1626196": {
+        "name": "Josh Richardson",
+        "pos": "G-F"
+    },
+    "1626203": {
+        "name": "Treveon Graham",
+        "pos": "F"
+    },
+    "1626204": {
+        "name": "Larry Nance Jr.",
+        "pos": "F"
+    },
+    "1626209": {
+        "name": "Mario Hezonja",
+        "pos": "F"
+    },
+    "1626210": {
+        "name": "Alan Williams",
+        "pos": "F-C"
+    },
+    "1626220": {
+        "name": "Royce O'Neale",
+        "pos": "F"
+    },
+    "1626224": {
+        "name": "Cedi Osman",
+        "pos": "F"
+    },
+    "1626245": {
+        "name": "Cristiano Felicio",
+        "pos": "F-C"
+    },
+    "1626246": {
+        "name": "Boban Marjanovic",
+        "pos": "C"
+    },
+    "1626257": {
+        "name": "Salah Mejri",
+        "pos": "C"
+    },
+    "1626259": {
+        "name": "Malcolm Miller",
+        "pos": "F"
+    },
+    "1626290": {
+        "name": "Corey Webster",
+        "pos": ""
+    },
+    "1626710": {
+        "name": "Patrick Richard",
+        "pos": ""
+    },
+    "1626780": {
+        "name": "Jonathan Gibson",
+        "pos": "G"
+    },
+    "1627114": {
+        "name": "Tom Abercrombie",
+        "pos": ""
+    },
+    "1627208": {
+        "name": "Stephan Hicks",
+        "pos": ""
+    },
+    "1627215": {
+        "name": "Walter Lemon Jr.",
+        "pos": "G"
+    },
+    "1627362": {
+        "name": "Briante Weber",
+        "pos": ""
+    },
+    "1627395": {
+        "name": "Julian Washburn",
+        "pos": "F-G"
+    },
+    "1627641": {
+        "name": "Deng Deng",
+        "pos": ""
+    },
+    "1627732": {
+        "name": "Ben Simmons",
+        "pos": "G-F"
+    },
+    "1627733": {
+        "name": "Dragan Bender",
+        "pos": "F"
+    },
+    "1627734": {
+        "name": "Domantas Sabonis",
+        "pos": "F"
+    },
+    "1627736": {
+        "name": "Malik Beasley",
+        "pos": "G"
+    },
+    "1627737": {
+        "name": "Marquese Chriss",
+        "pos": "F"
+    },
+    "1627738": {
+        "name": "Deyonta Davis",
+        "pos": "C-F"
+    },
+    "1627739": {
+        "name": "Kris Dunn",
+        "pos": "G"
+    },
+    "1627740": {
+        "name": "Henry Ellenson",
+        "pos": "F"
+    },
+    "1627741": {
+        "name": "Buddy Hield",
+        "pos": "G"
+    },
+    "1627742": {
+        "name": "Brandon Ingram",
+        "pos": "F"
+    },
+    "1627745": {
+        "name": "Damian Jones",
+        "pos": "C"
+    },
+    "1627746": {
+        "name": "Skal Labissiere",
+        "pos": "F"
+    },
+    "1627747": {
+        "name": "Caris LeVert",
+        "pos": "G"
+    },
+    "1627748": {
+        "name": "Thon Maker",
+        "pos": "F"
+    },
+    "1627749": {
+        "name": "Dejounte Murray",
+        "pos": "G"
+    },
+    "1627750": {
+        "name": "Jamal Murray",
+        "pos": "G"
+    },
+    "1627751": {
+        "name": "Jakob Poeltl",
+        "pos": "C"
+    },
+    "1627752": {
+        "name": "Taurean Prince",
+        "pos": "F"
+    },
+    "1627755": {
+        "name": "Tyler Ulis",
+        "pos": ""
+    },
+    "1627756": {
+        "name": "Denzel Valentine",
+        "pos": "G"
+    },
+    "1627758": {
+        "name": "Ron Baker",
+        "pos": ""
+    },
+    "1627759": {
+        "name": "Jaylen Brown",
+        "pos": "G"
+    },
+    "1627761": {
+        "name": "DeAndre' Bembry",
+        "pos": "F"
+    },
+    "1627763": {
+        "name": "Malcolm Brogdon",
+        "pos": "G"
+    },
+    "1627767": {
+        "name": "Cheick Diallo",
+        "pos": "F"
+    },
+    "1627774": {
+        "name": "Jake Layman",
+        "pos": "F"
+    },
+    "1627775": {
+        "name": "Patrick McCaw",
+        "pos": "G"
+    },
+    "1627777": {
+        "name": "Georges Niang",
+        "pos": "F"
+    },
+    "1627782": {
+        "name": "Wayne Selden",
+        "pos": "G-F"
+    },
+    "1627783": {
+        "name": "Pascal Siakam",
+        "pos": "F"
+    },
+    "1627785": {
+        "name": "Isaiah Whitehead",
+        "pos": "G"
+    },
+    "1627786": {
+        "name": "Troy Williams",
+        "pos": "F"
+    },
+    "1627788": {
+        "name": "Furkan Korkmaz",
+        "pos": "G-F"
+    },
+    "1627789": {
+        "name": "Timothe Luwawu-Cabarrot",
+        "pos": "G-F"
+    },
+    "1627790": {
+        "name": "Ante Zizic",
+        "pos": "C"
+    },
+    "1627812": {
+        "name": "Yogi Ferrell",
+        "pos": "G"
+    },
+    "1627814": {
+        "name": "Damion Lee",
+        "pos": "G"
+    },
+    "1627816": {
+        "name": "Alex Poythress",
+        "pos": "F"
+    },
+    "1627819": {
+        "name": "Isaiah Taylor",
+        "pos": ""
+    },
+    "1627820": {
+        "name": "Tyrone Wallace",
+        "pos": "G"
+    },
+    "1627823": {
+        "name": "Juancho Hernangomez",
+        "pos": "F"
+    },
+    "1627824": {
+        "name": "Guerschon Yabusele",
+        "pos": "F"
+    },
+    "1627826": {
+        "name": "Ivica Zubac",
+        "pos": "C"
+    },
+    "1627827": {
+        "name": "Dorian Finney-Smith",
+        "pos": "F"
+    },
+    "1627832": {
+        "name": "Fred VanVleet",
+        "pos": "G"
+    },
+    "1627846": {
+        "name": "Abdel Nader",
+        "pos": "F"
+    },
+    "1627853": {
+        "name": "Ryan Arcidiacono",
+        "pos": "G"
+    },
+    "1627854": {
+        "name": "Bryn Forbes",
+        "pos": "G"
+    },
+    "1627863": {
+        "name": "Danuel House Jr.",
+        "pos": "F-G"
+    },
+    "1627884": {
+        "name": "Derrick Jones Jr.",
+        "pos": "F-G"
+    },
+    "1627885": {
+        "name": "Shaquille Harrison",
+        "pos": "G"
+    },
+    "1627936": {
+        "name": "Alex Caruso",
+        "pos": "G"
+    },
+    "1628021": {
+        "name": "David Nwaba",
+        "pos": "G"
+    },
+    "1628035": {
+        "name": "Alfonzo McKinnie",
+        "pos": "F"
+    },
+    "1628070": {
+        "name": "Jordan Loyd",
+        "pos": "G"
+    },
+    "1628365": {
+        "name": "Markelle Fultz",
+        "pos": "G"
+    },
+    "1628366": {
+        "name": "Lonzo Ball",
+        "pos": "G"
+    },
+    "1628367": {
+        "name": "Josh Jackson",
+        "pos": "F"
+    },
+    "1628368": {
+        "name": "De'Aaron Fox",
+        "pos": "G"
+    },
+    "1628369": {
+        "name": "Jayson Tatum",
+        "pos": "F"
+    },
+    "1628370": {
+        "name": "Malik Monk",
+        "pos": "G"
+    },
+    "1628371": {
+        "name": "Jonathan Isaac",
+        "pos": "F"
+    },
+    "1628372": {
+        "name": "Dennis Smith Jr.",
+        "pos": "G"
+    },
+    "1628373": {
+        "name": "Frank Ntilikina",
+        "pos": "G"
+    },
+    "1628374": {
+        "name": "Lauri Markkanen",
+        "pos": "F"
+    },
+    "1628378": {
+        "name": "Donovan Mitchell",
+        "pos": "G"
+    },
+    "1628379": {
+        "name": "Luke Kennard",
+        "pos": "G"
+    },
+    "1628380": {
+        "name": "Zach Collins",
+        "pos": "F-C"
+    },
+    "1628381": {
+        "name": "John Collins",
+        "pos": "F-C"
+    },
+    "1628382": {
+        "name": "Justin Jackson",
+        "pos": "F"
+    },
+    "1628383": {
+        "name": "Justin Patton",
+        "pos": ""
+    },
+    "1628384": {
+        "name": "OG Anunoby",
+        "pos": "F"
+    },
+    "1628385": {
+        "name": "Harry Giles III",
+        "pos": "F-C"
+    },
+    "1628386": {
+        "name": "Jarrett Allen",
+        "pos": "C"
+    },
+    "1628387": {
+        "name": "Ike Anigbogu",
+        "pos": ""
+    },
+    "1628388": {
+        "name": "TJ Leaf",
+        "pos": "F"
+    },
+    "1628389": {
+        "name": "Bam Adebayo",
+        "pos": "C-F"
+    },
+    "1628390": {
+        "name": "Terrance Ferguson",
+        "pos": "G"
+    },
+    "1628391": {
+        "name": "D.J. Wilson",
+        "pos": "F"
+    },
+    "1628392": {
+        "name": "Isaiah Hartenstein",
+        "pos": "F-C"
+    },
+    "1628393": {
+        "name": "Jawun Evans",
+        "pos": "G"
+    },
+    "1628395": {
+        "name": "Jordan Bell",
+        "pos": "F"
+    },
+    "1628396": {
+        "name": "Tony Bradley",
+        "pos": "C"
+    },
+    "1628397": {
+        "name": "Ivan Rabb",
+        "pos": "F"
+    },
+    "1628398": {
+        "name": "Kyle Kuzma",
+        "pos": "F"
+    },
+    "1628399": {
+        "name": "Tyler Lydon",
+        "pos": "F"
+    },
+    "1628400": {
+        "name": "Semi Ojeleye",
+        "pos": "F"
+    },
+    "1628401": {
+        "name": "Derrick White",
+        "pos": "G"
+    },
+    "1628402": {
+        "name": "Frank Jackson",
+        "pos": "G"
+    },
+    "1628403": {
+        "name": "Caleb Swanigan",
+        "pos": "F"
+    },
+    "1628404": {
+        "name": "Josh Hart",
+        "pos": "G"
+    },
+    "1628405": {
+        "name": "Johnathan Motley",
+        "pos": "F"
+    },
+    "1628407": {
+        "name": "Dwayne Bacon",
+        "pos": "G-F"
+    },
+    "1628408": {
+        "name": "PJ Dozier",
+        "pos": "G-F"
+    },
+    "1628410": {
+        "name": "Edmond Sumner",
+        "pos": "G"
+    },
+    "1628411": {
+        "name": "Wes Iwundu",
+        "pos": "F"
+    },
+    "1628412": {
+        "name": "Frank Mason",
+        "pos": "G"
+    },
+    "1628413": {
+        "name": "Jonah Bolden",
+        "pos": "F"
+    },
+    "1628414": {
+        "name": "Sindarius Thornwell",
+        "pos": "G"
+    },
+    "1628415": {
+        "name": "Dillon Brooks",
+        "pos": "G-F"
+    },
+    "1628416": {
+        "name": "Tyler Dorsey",
+        "pos": "G"
+    },
+    "1628417": {
+        "name": "Jaron Blossomgame",
+        "pos": "F"
+    },
+    "1628418": {
+        "name": "Thomas Bryant",
+        "pos": "C"
+    },
+    "1628420": {
+        "name": "Monte Morris",
+        "pos": "G"
+    },
+    "1628421": {
+        "name": "Devin Robinson",
+        "pos": "F"
+    },
+    "1628422": {
+        "name": "Damyean Dotson",
+        "pos": "G"
+    },
+    "1628425": {
+        "name": "Sterling Brown",
+        "pos": "G"
+    },
+    "1628432": {
+        "name": "Davon Reed",
+        "pos": "G"
+    },
+    "1628436": {
+        "name": "Luke Kornet",
+        "pos": "F-C"
+    },
+    "1628439": {
+        "name": "Isaiah Hicks",
+        "pos": "F"
+    },
+    "1628443": {
+        "name": "Kadeem Allen",
+        "pos": "G"
+    },
+    "1628449": {
+        "name": "Chris Boucher",
+        "pos": "F"
+    },
+    "1628462": {
+        "name": "Milos Teodosic",
+        "pos": ""
+    },
+    "1628463": {
+        "name": "Tyler Cavanaugh",
+        "pos": "F"
+    },
+    "1628464": {
+        "name": "Daniel Theis",
+        "pos": "F"
+    },
+    "1628467": {
+        "name": "Maxi Kleber",
+        "pos": "F"
+    },
+    "1628469": {
+        "name": "Antonio Blakeney",
+        "pos": "G"
+    },
+    "1628470": {
+        "name": "Torrey Craig",
+        "pos": "F"
+    },
+    "1628500": {
+        "name": "Ben Moore",
+        "pos": "F"
+    },
+    "1628505": {
+        "name": "Troy Caupain",
+        "pos": "G"
+    },
+    "1628513": {
+        "name": "Naz Mitrou-Long",
+        "pos": "G"
+    },
+    "1628518": {
+        "name": "Amile Jefferson",
+        "pos": "F"
+    },
+    "1628656": {
+        "name": "Billy Garrett",
+        "pos": "G-F"
+    },
+    "1628959": {
+        "name": "Rawle Alkins",
+        "pos": "G"
+    },
+    "1628960": {
+        "name": "Grayson Allen",
+        "pos": "G"
+    },
+    "1628961": {
+        "name": "Kostas Antetokounmpo",
+        "pos": "F"
+    },
+    "1628963": {
+        "name": "Marvin Bagley III",
+        "pos": "F"
+    },
+    "1628964": {
+        "name": "Mo Bamba",
+        "pos": "C"
+    },
+    "1628966": {
+        "name": "Keita Bates-Diop",
+        "pos": "F"
+    },
+    "1628968": {
+        "name": "Brian Bowen",
+        "pos": ""
+    },
+    "1628969": {
+        "name": "Mikal Bridges",
+        "pos": "F"
+    },
+    "1628970": {
+        "name": "Miles Bridges",
+        "pos": "F"
+    },
+    "1628971": {
+        "name": "Bruce Brown",
+        "pos": "G"
+    },
+    "1628972": {
+        "name": "Troy Brown Jr.",
+        "pos": "F"
+    },
+    "1628973": {
+        "name": "Jalen Brunson",
+        "pos": "G"
+    },
+    "1628975": {
+        "name": "Jevon Carter",
+        "pos": "G"
+    },
+    "1628976": {
+        "name": "Wendell Carter Jr.",
+        "pos": "C"
+    },
+    "1628977": {
+        "name": "Hamidou Diallo",
+        "pos": "G"
+    },
+    "1628978": {
+        "name": "Donte DiVincenzo",
+        "pos": "G"
+    },
+    "1628979": {
+        "name": "Trevon Duval",
+        "pos": "G"
+    },
+    "1628980": {
+        "name": "Jacob Evans",
+        "pos": "G"
+    },
+    "1628982": {
+        "name": "Melvin Frazier Jr.",
+        "pos": "G-F"
+    },
+    "1628983": {
+        "name": "Shai Gilgeous-Alexander",
+        "pos": "G"
+    },
+    "1628984": {
+        "name": "Devonte' Graham",
+        "pos": "G"
+    },
+    "1628988": {
+        "name": "Aaron Holiday",
+        "pos": "G"
+    },
+    "1628989": {
+        "name": "Kevin Huerter",
+        "pos": "G"
+    },
+    "1628990": {
+        "name": "Chandler Hutchison",
+        "pos": "F"
+    },
+    "1628991": {
+        "name": "Jaren Jackson Jr.",
+        "pos": "F-C"
+    },
+    "1628993": {
+        "name": "Alize Johnson",
+        "pos": "F"
+    },
+    "1628994": {
+        "name": "George King",
+        "pos": "F"
+    },
+    "1628995": {
+        "name": "Kevin Knox",
+        "pos": "F"
+    },
+    "1628999": {
+        "name": "Yante Maten",
+        "pos": "F"
+    },
+    "1629001": {
+        "name": "De'Anthony Melton",
+        "pos": "G"
+    },
+    "1629002": {
+        "name": "Chimezie Metu",
+        "pos": "F"
+    },
+    "1629003": {
+        "name": "Shake Milton",
+        "pos": "G"
+    },
+    "1629004": {
+        "name": "Svi Mykhailiuk",
+        "pos": "G"
+    },
+    "1629006": {
+        "name": "Josh Okogie",
+        "pos": "G"
+    },
+    "1629008": {
+        "name": "Michael Porter Jr.",
+        "pos": "F"
+    },
+    "1629010": {
+        "name": "Jerome Robinson",
+        "pos": "G"
+    },
+    "1629011": {
+        "name": "Mitchell Robinson",
+        "pos": "C"
+    },
+    "1629012": {
+        "name": "Collin Sexton",
+        "pos": "G"
+    },
+    "1629013": {
+        "name": "Landry Shamet",
+        "pos": "G"
+    },
+    "1629014": {
+        "name": "Anfernee Simons",
+        "pos": "G"
+    },
+    "1629015": {
+        "name": "Zhaire Smith",
+        "pos": "G"
+    },
+    "1629016": {
+        "name": "Omari Spellman",
+        "pos": "F"
+    },
+    "1629017": {
+        "name": "Khyri Thomas",
+        "pos": "G"
+    },
+    "1629018": {
+        "name": "Gary Trent Jr.",
+        "pos": "G"
+    },
+    "1629019": {
+        "name": "Allonzo Trier",
+        "pos": "G"
+    },
+    "1629020": {
+        "name": "Jarred Vanderbilt",
+        "pos": "F"
+    },
+    "1629021": {
+        "name": "Moritz Wagner",
+        "pos": "C"
+    },
+    "1629022": {
+        "name": "Lonnie Walker IV",
+        "pos": "G"
+    },
+    "1629026": {
+        "name": "Kenrich Williams",
+        "pos": "G-F"
+    },
+    "1629027": {
+        "name": "Trae Young",
+        "pos": "G"
+    },
+    "1629028": {
+        "name": "Deandre Ayton",
+        "pos": "C"
+    },
+    "1629029": {
+        "name": "Luka Doncic",
+        "pos": "F-G"
+    },
+    "1629033": {
+        "name": "Theo Pinson",
+        "pos": "G-F"
+    },
+    "1629034": {
+        "name": "Ray Spalding",
+        "pos": "F"
+    },
+    "1629045": {
+        "name": "Bonzie Colson",
+        "pos": "F"
+    },
+    "1629053": {
+        "name": "Vincent Edwards",
+        "pos": "F"
+    },
+    "1629055": {
+        "name": "Donte Grantham",
+        "pos": "F"
+    },
+    "1629057": {
+        "name": "Robert Williams III",
+        "pos": "C-F"
+    },
+    "1629058": {
+        "name": "Dzanan Musa",
+        "pos": "G-F"
+    },
+    "1629059": {
+        "name": "Elie Okobo",
+        "pos": "G"
+    },
+    "1629061": {
+        "name": "Deng Adel",
+        "pos": "F"
+    },
+    "1629066": {
+        "name": "Rodions Kurucs",
+        "pos": "F"
+    },
+    "1629067": {
+        "name": "Isaac Bonga",
+        "pos": "G"
+    },
+    "1629094": {
+        "name": "Marcus Derrickson",
+        "pos": "F"
+    },
+    "1629096": {
+        "name": "Harry Froling",
+        "pos": ""
+    },
+    "1629098": {
+        "name": "Jack McVeigh",
+        "pos": ""
+    },
+    "1629102": {
+        "name": "Brandon Sampson",
+        "pos": "G"
+    },
+    "1629109": {
+        "name": "Gary Clark",
+        "pos": "F"
+    },
+    "1629116": {
+        "name": "Angel Delgado",
+        "pos": "C"
+    },
+    "1629117": {
+        "name": "Wenyen Gabriel",
+        "pos": "F"
+    },
+    "1629118": {
+        "name": "Thomas Welsh",
+        "pos": "C"
+    },
+    "1629121": {
+        "name": "Jaylen Adams",
+        "pos": "G"
+    },
+    "1629122": {
+        "name": "J.P. Macura",
+        "pos": "G"
+    },
+    "1629123": {
+        "name": "Jared Terrell",
+        "pos": "G"
+    },
+    "1629126": {
+        "name": "Deonte Burton",
+        "pos": "G"
+    },
+    "1629129": {
+        "name": "Trevon Bluiett",
+        "pos": "G-F"
+    },
+    "1629130": {
+        "name": "Duncan Robinson",
+        "pos": "F"
+    },
+    "1629131": {
+        "name": "Jairus Lyles",
+        "pos": ""
+    },
+    "1629132": {
+        "name": "Braian Angola-Rodas",
+        "pos": ""
+    },
+    "1629133": {
+        "name": "Daryl Macon",
+        "pos": "G"
+    },
+    "1629134": {
+        "name": "Kendrick Nunn",
+        "pos": "G"
+    },
+    "1629136": {
+        "name": "Elijah Stewart",
+        "pos": ""
+    },
+    "1629137": {
+        "name": "Joel Berry II",
+        "pos": ""
+    },
+    "1629139": {
+        "name": "Yuta Watanabe",
+        "pos": "G"
+    },
+    "1629140": {
+        "name": "Johnathan Williams",
+        "pos": "F"
+    },
+    "1629142": {
+        "name": "Yanyuhang Ding",
+        "pos": ""
+    },
+    "1629145": {
+        "name": "Isaiah Wilkins",
+        "pos": ""
+    },
+    "1629146": {
+        "name": "Zach Smith",
+        "pos": ""
+    },
+    "1629147": {
+        "name": "Joe Chealey",
+        "pos": "G"
+    },
+    "1629148": {
+        "name": "Johnny Hamilton",
+        "pos": ""
+    },
+    "1629149": {
+        "name": "Codi Miller-McIntyre",
+        "pos": ""
+    },
+    "1629150": {
+        "name": "Emanuel Terry",
+        "pos": ""
+    },
+    "1629151": {
+        "name": "Ryan Broekhoff",
+        "pos": "G-F"
+    },
+    "1629152": {
+        "name": "DeVaughn Akoon-Purcell",
+        "pos": ""
+    },
+    "1629154": {
+        "name": "Rob Gray",
+        "pos": ""
+    },
+    "1629155": {
+        "name": "Zach Lofton",
+        "pos": ""
+    },
+    "1629156": {
+        "name": "Markel Crawford",
+        "pos": ""
+    },
+    "1629159": {
+        "name": "Marcus Lee",
+        "pos": ""
+    },
+    "1629162": {
+        "name": "Jordan McLaughlin",
+        "pos": ""
+    },
+    "1629163": {
+        "name": "Trey Lewis",
+        "pos": ""
+    },
+    "1629164": {
+        "name": "Brandon Goodwin",
+        "pos": "G"
+    },
+    "1629165": {
+        "name": "Nick King",
+        "pos": ""
+    },
+    "1629166": {
+        "name": "Jeff Roberson",
+        "pos": ""
+    },
+    "1629167": {
+        "name": "Justin Bibbs",
+        "pos": ""
+    },
+    "1629168": {
+        "name": "BJ Johnson",
+        "pos": "F"
+    },
+    "1629184": {
+        "name": "Desi Rodriguez",
+        "pos": ""
+    },
+    "1629185": {
+        "name": "Chris Chiozza",
+        "pos": "G"
+    },
+    "1629186": {
+        "name": "Tiwian Kendley",
+        "pos": ""
+    },
+    "1629190": {
+        "name": "C.J. Anderson",
+        "pos": ""
+    },
+    "1629195": {
+        "name": "Devin Davis",
+        "pos": ""
+    },
+    "1629203": {
+        "name": "Jemerrio Jones",
+        "pos": "F"
+    },
+    "1629215": {
+        "name": "Taren Sullivan",
+        "pos": ""
+    },
+    "1629216": {
+        "name": "Gabe Vincent",
+        "pos": ""
+    },
+    "1629226": {
+        "name": "Ismaila Kane",
+        "pos": ""
+    },
+    "1629232": {
+        "name": "Kaiser Gates",
+        "pos": ""
+    },
+    "1629234": {
+        "name": "Drew Eubanks",
+        "pos": "F"
+    },
+    "1629236": {
+        "name": "Jonathan Stark",
+        "pos": ""
+    },
+    "1629244": {
+        "name": "Cameron Reynolds",
+        "pos": "G"
+    },
+    "1629245": {
+        "name": "Nuni Omot",
+        "pos": ""
+    },
+    "1629246": {
+        "name": "Tyrius Walker",
+        "pos": ""
+    },
+    "1629260": {
+        "name": "Tim Bond",
+        "pos": ""
+    },
+    "1629285": {
+        "name": "Angel Rodriguez",
+        "pos": ""
+    },
+    "1629312": {
+        "name": "Haywood Highsmith",
+        "pos": "F"
+    },
+    "1629341": {
+        "name": "Tarik Phillip",
+        "pos": "G"
+    },
+    "1629352": {
+        "name": "Jeffrey Coby",
+        "pos": ""
+    },
+    "1629353": {
+        "name": "Isaac Humphries",
+        "pos": "C"
+    },
+    "1629541": {
+        "name": "Dairis Bertans",
+        "pos": "G"
+    },
+    "1713": {
+        "name": "Vince Carter",
+        "pos": "F-G"
+    },
+    "1717": {
+        "name": "Dirk Nowitzki",
+        "pos": "F"
+    },
+    "1962937772": {
+        "name": "Shi Yuchen",
+        "pos": ""
+    },
+    "1962937917": {
+        "name": "Xiaohui Wang",
+        "pos": ""
+    },
+    "1962937920": {
+        "name": "Lochlan Cummings",
+        "pos": ""
+    },
+    "1962937921": {
+        "name": "Bryan Michaels",
+        "pos": ""
+    },
+    "1962937922": {
+        "name": "Sunday Dech",
+        "pos": ""
+    },
+    "1962937926": {
+        "name": "Xiaohui Wang",
+        "pos": ""
+    },
+    "1962937928": {
+        "name": "Marcus Vinicius Souza",
+        "pos": ""
+    },
+    "1962937929": {
+        "name": "Leandrinho Barbosa",
+        "pos": ""
+    },
+    "1962937930": {
+        "name": "Carlos Alexandre",
+        "pos": ""
+    },
+    "1962937931": {
+        "name": "Ruan Miranda",
+        "pos": ""
+    },
+    "1962937932": {
+        "name": "Nelson Larkins",
+        "pos": ""
+    },
+    "1962937933": {
+        "name": "Jonathan Morse",
+        "pos": ""
+    },
+    "1962937937": {
+        "name": "Lucas Hausman",
+        "pos": ""
+    },
+    "200746": {
+        "name": "LaMarcus Aldridge",
+        "pos": "C-F"
+    },
+    "200752": {
+        "name": "Rudy Gay",
+        "pos": "F"
+    },
+    "200755": {
+        "name": "JJ Redick",
+        "pos": "G"
+    },
+    "200757": {
+        "name": "Thabo Sefolosha",
+        "pos": "F"
+    },
+    "200765": {
+        "name": "Rajon Rondo",
+        "pos": "G"
+    },
+    "200767": {
+        "name": "Josh Boone",
+        "pos": ""
+    },
+    "200768": {
+        "name": "Kyle Lowry",
+        "pos": "G"
+    },
+    "200782": {
+        "name": "PJ Tucker",
+        "pos": "F"
+    },
+    "200794": {
+        "name": "Paul Millsap",
+        "pos": "F"
+    },
+    "200826": {
+        "name": "J.J. Barea",
+        "pos": "G"
+    },
+    "201142": {
+        "name": "Kevin Durant",
+        "pos": "F"
+    },
+    "201143": {
+        "name": "Al Horford",
+        "pos": "C-F"
+    },
+    "201144": {
+        "name": "Mike Conley",
+        "pos": "G"
+    },
+    "201145": {
+        "name": "Jeff Green",
+        "pos": "F"
+    },
+    "201147": {
+        "name": "Corey Brewer",
+        "pos": "G-F"
+    },
+    "201149": {
+        "name": "Joakim Noah",
+        "pos": "C"
+    },
+    "201152": {
+        "name": "Thaddeus Young",
+        "pos": "F"
+    },
+    "201158": {
+        "name": "Marco Belinelli",
+        "pos": "G-F"
+    },
+    "201160": {
+        "name": "Jason Smith",
+        "pos": ""
+    },
+    "201162": {
+        "name": "Jared Dudley",
+        "pos": "F"
+    },
+    "201163": {
+        "name": "Wilson Chandler",
+        "pos": "F"
+    },
+    "201188": {
+        "name": "Marc Gasol",
+        "pos": "C"
+    },
+    "201194": {
+        "name": "Brad Newley",
+        "pos": ""
+    },
+    "201229": {
+        "name": "Anthony Tolliver",
+        "pos": "F"
+    },
+    "201563": {
+        "name": "Michael Beasley",
+        "pos": ""
+    },
+    "201565": {
+        "name": "Derrick Rose",
+        "pos": "G"
+    },
+    "201566": {
+        "name": "Russell Westbrook",
+        "pos": "G"
+    },
+    "201567": {
+        "name": "Kevin Love",
+        "pos": "F-C"
+    },
+    "201568": {
+        "name": "Danilo Gallinari",
+        "pos": "F"
+    },
+    "201569": {
+        "name": "Eric Gordon",
+        "pos": "G"
+    },
+    "201571": {
+        "name": "D.J. Augustin",
+        "pos": "G"
+    },
+    "201572": {
+        "name": "Brook Lopez",
+        "pos": "C"
+    },
+    "201573": {
+        "name": "Jerryd Bayless",
+        "pos": "G"
+    },
+    "201577": {
+        "name": "Robin Lopez",
+        "pos": "C"
+    },
+    "201578": {
+        "name": "Marreese Speights",
+        "pos": ""
+    },
+    "201580": {
+        "name": "JaVale McGee",
+        "pos": "C"
+    },
+    "201582": {
+        "name": "Alexis Ajinca",
+        "pos": ""
+    },
+    "201583": {
+        "name": "Ryan Anderson",
+        "pos": "F"
+    },
+    "201584": {
+        "name": "Courtney Lee",
+        "pos": "G"
+    },
+    "201585": {
+        "name": "Kosta Koufos",
+        "pos": "C"
+    },
+    "201586": {
+        "name": "Serge Ibaka",
+        "pos": "C-F"
+    },
+    "201587": {
+        "name": "Nicolas Batum",
+        "pos": "F-G"
+    },
+    "201588": {
+        "name": "George Hill",
+        "pos": "G"
+    },
+    "201590": {
+        "name": "Donte Greene",
+        "pos": ""
+    },
+    "201599": {
+        "name": "DeAndre Jordan",
+        "pos": "C"
+    },
+    "201600": {
+        "name": "Omer Asik",
+        "pos": ""
+    },
+    "201601": {
+        "name": "Luc Mbah a Moute",
+        "pos": ""
+    },
+    "201609": {
+        "name": "Goran Dragic",
+        "pos": "G"
+    },
+    "201645": {
+        "name": "Tre Kelley",
+        "pos": ""
+    },
+    "201933": {
+        "name": "Blake Griffin",
+        "pos": "F"
+    },
+    "201935": {
+        "name": "James Harden",
+        "pos": "G"
+    },
+    "201936": {
+        "name": "Tyreke Evans",
+        "pos": ""
+    },
+    "201937": {
+        "name": "Ricky Rubio",
+        "pos": "G"
+    },
+    "201939": {
+        "name": "Stephen Curry",
+        "pos": "G"
+    },
+    "201942": {
+        "name": "DeMar DeRozan",
+        "pos": "G"
+    },
+    "201949": {
+        "name": "James Johnson",
+        "pos": "F"
+    },
+    "201950": {
+        "name": "Jrue Holiday",
+        "pos": "G"
+    },
+    "201952": {
+        "name": "Jeff Teague",
+        "pos": "G"
+    },
+    "201954": {
+        "name": "Darren Collison",
+        "pos": "G"
+    },
+    "201956": {
+        "name": "Omri Casspi",
+        "pos": ""
+    },
+    "201959": {
+        "name": "Taj Gibson",
+        "pos": "F"
+    },
+    "201960": {
+        "name": "DeMarre Carroll",
+        "pos": "F"
+    },
+    "201961": {
+        "name": "Wayne Ellington",
+        "pos": "G"
+    },
+    "201967": {
+        "name": "Dante Cunningham",
+        "pos": "F"
+    },
+    "201973": {
+        "name": "Jonas Jerebko",
+        "pos": "F"
+    },
+    "201975": {
+        "name": "Jodie Meeks",
+        "pos": "G"
+    },
+    "201976": {
+        "name": "Patrick Beverley",
+        "pos": "G"
+    },
+    "201980": {
+        "name": "Danny Green",
+        "pos": "G-F"
+    },
+    "201988": {
+        "name": "Patty Mills",
+        "pos": "G"
+    },
+    "202066": {
+        "name": "Garrett Temple",
+        "pos": "G-F"
+    },
+    "202083": {
+        "name": "Wesley Matthews",
+        "pos": "G-F"
+    },
+    "202322": {
+        "name": "John Wall",
+        "pos": "G"
+    },
+    "202323": {
+        "name": "Evan Turner",
+        "pos": "G-F"
+    },
+    "202324": {
+        "name": "Derrick Favors",
+        "pos": "F-C"
+    },
+    "202325": {
+        "name": "Wesley Johnson",
+        "pos": "F-G"
+    },
+    "202326": {
+        "name": "DeMarcus Cousins",
+        "pos": "C"
+    },
+    "202327": {
+        "name": "Ekpe Udoh",
+        "pos": "C-F"
+    },
+    "202328": {
+        "name": "Greg Monroe",
+        "pos": "C"
+    },
+    "202329": {
+        "name": "Al-Farouq Aminu",
+        "pos": "F"
+    },
+    "202330": {
+        "name": "Gordon Hayward",
+        "pos": "F"
+    },
+    "202331": {
+        "name": "Paul George",
+        "pos": "F"
+    },
+    "202334": {
+        "name": "Ed Davis",
+        "pos": "C"
+    },
+    "202335": {
+        "name": "Patrick Patterson",
+        "pos": "F"
+    },
+    "202339": {
+        "name": "Eric Bledsoe",
+        "pos": "G"
+    },
+    "202340": {
+        "name": "Avery Bradley",
+        "pos": "G"
+    },
+    "202347": {
+        "name": "Quincy Pondexter",
+        "pos": "F"
+    },
+    "202355": {
+        "name": "Hassan Whiteside",
+        "pos": "C"
+    },
+    "202357": {
+        "name": "Nemanja Bjelica",
+        "pos": "F"
+    },
+    "202358": {
+        "name": "Terrico White",
+        "pos": ""
+    },
+    "202362": {
+        "name": "Lance Stephenson",
+        "pos": "G"
+    },
+    "202388": {
+        "name": "Donald Sloan",
+        "pos": ""
+    },
+    "202389": {
+        "name": "Timofey Mozgov",
+        "pos": "C"
+    },
+    "202391": {
+        "name": "Jeremy Lin",
+        "pos": "G"
+    },
+    "202397": {
+        "name": "Ish Smith",
+        "pos": "G"
+    },
+    "202498": {
+        "name": "Lance Thomas",
+        "pos": "F"
+    },
+    "202681": {
+        "name": "Kyrie Irving",
+        "pos": "G"
+    },
+    "202683": {
+        "name": "Enes Kanter",
+        "pos": "C"
+    },
+    "202684": {
+        "name": "Tristan Thompson",
+        "pos": "C-F"
+    },
+    "202685": {
+        "name": "Jonas Valanciunas",
+        "pos": "C"
+    },
+    "202687": {
+        "name": "Bismack Biyombo",
+        "pos": "C"
+    },
+    "202688": {
+        "name": "Brandon Knight",
+        "pos": "G"
+    },
+    "202689": {
+        "name": "Kemba Walker",
+        "pos": "G"
+    },
+    "202690": {
+        "name": "Jimmer Fredette",
+        "pos": "G"
+    },
+    "202691": {
+        "name": "Klay Thompson",
+        "pos": "G"
+    },
+    "202692": {
+        "name": "Alec Burks",
+        "pos": "G"
+    },
+    "202693": {
+        "name": "Markieff Morris",
+        "pos": "F"
+    },
+    "202694": {
+        "name": "Marcus Morris",
+        "pos": "F"
+    },
+    "202695": {
+        "name": "Kawhi Leonard",
+        "pos": "F"
+    },
+    "202696": {
+        "name": "Nikola Vucevic",
+        "pos": "C"
+    },
+    "202697": {
+        "name": "Iman Shumpert",
+        "pos": "G"
+    },
+    "202699": {
+        "name": "Tobias Harris",
+        "pos": "F"
+    },
+    "202700": {
+        "name": "Donatas Motiejunas",
+        "pos": "F-C"
+    },
+    "202702": {
+        "name": "Kenneth Faried",
+        "pos": "F-C"
+    },
+    "202703": {
+        "name": "Nikola Mirotic",
+        "pos": "F"
+    },
+    "202704": {
+        "name": "Reggie Jackson",
+        "pos": "G"
+    },
+    "202705": {
+        "name": "MarShon Brooks",
+        "pos": ""
+    },
+    "202709": {
+        "name": "Cory Joseph",
+        "pos": "G"
+    },
+    "202710": {
+        "name": "Jimmy Butler",
+        "pos": "G-F"
+    },
+    "202711": {
+        "name": "Bojan Bogdanovic",
+        "pos": "F"
+    },
+    "202714": {
+        "name": "Shelvin Mack",
+        "pos": "G"
+    },
+    "202718": {
+        "name": "Chandler Parsons",
+        "pos": "F"
+    },
+    "202719": {
+        "name": "Jeremy Tyler",
+        "pos": ""
+    },
+    "202720": {
+        "name": "Jon Leuer",
+        "pos": "F"
+    },
+    "202721": {
+        "name": "Darius Morris",
+        "pos": ""
+    },
+    "202722": {
+        "name": "Davis Bertans",
+        "pos": "F"
+    },
+    "202730": {
+        "name": "Lavoy Allen",
+        "pos": ""
+    },
+    "202734": {
+        "name": "E'Twaun Moore",
+        "pos": "G"
+    },
+    "202738": {
+        "name": "Isaiah Thomas",
+        "pos": "G"
+    },
+    "202810": {
+        "name": "D.J. Kennedy",
+        "pos": ""
+    },
+    "202918": {
+        "name": "Xavier Silas",
+        "pos": ""
+    },
+    "202954": {
+        "name": "Brad Wanamaker",
+        "pos": "G"
+    },
+    "202963": {
+        "name": "Jerome Randle",
+        "pos": ""
+    },
+    "203076": {
+        "name": "Anthony Davis",
+        "pos": "F-C"
+    },
+    "203077": {
+        "name": "Michael Kidd-Gilchrist",
+        "pos": "F"
+    },
+    "203078": {
+        "name": "Bradley Beal",
+        "pos": "G"
+    },
+    "203079": {
+        "name": "Dion Waiters",
+        "pos": "G"
+    },
+    "203080": {
+        "name": "Thomas Robinson",
+        "pos": ""
+    },
+    "203081": {
+        "name": "Damian Lillard",
+        "pos": "G"
+    },
+    "203082": {
+        "name": "Terrence Ross",
+        "pos": "G-F"
+    },
+    "203083": {
+        "name": "Andre Drummond",
+        "pos": "C"
+    },
+    "203084": {
+        "name": "Harrison Barnes",
+        "pos": "F"
+    },
+    "203085": {
+        "name": "Austin Rivers",
+        "pos": "G"
+    },
+    "203086": {
+        "name": "Meyers Leonard",
+        "pos": "F-C"
+    },
+    "203087": {
+        "name": "Jeremy Lamb",
+        "pos": "G"
+    },
+    "203089": {
+        "name": "John Henson",
+        "pos": "F"
+    },
+    "203090": {
+        "name": "Maurice Harkless",
+        "pos": "F"
+    },
+    "203092": {
+        "name": "Tyler Zeller",
+        "pos": "C"
+    },
+    "203095": {
+        "name": "Evan Fournier",
+        "pos": "G-F"
+    },
+    "203098": {
+        "name": "John Jenkins",
+        "pos": "G"
+    },
+    "203101": {
+        "name": "Miles Plumlee",
+        "pos": "C"
+    },
+    "203107": {
+        "name": "Tomas Satoransky",
+        "pos": "G-F"
+    },
+    "203109": {
+        "name": "Jae Crowder",
+        "pos": "F"
+    },
+    "203110": {
+        "name": "Draymond Green",
+        "pos": "F"
+    },
+    "203114": {
+        "name": "Khris Middleton",
+        "pos": "F"
+    },
+    "203115": {
+        "name": "Will Barton",
+        "pos": "G"
+    },
+    "203118": {
+        "name": "Mike Scott",
+        "pos": "F"
+    },
+    "203120": {
+        "name": "Justin Hamilton",
+        "pos": ""
+    },
+    "203121": {
+        "name": "Darius Miller",
+        "pos": "F"
+    },
+    "203124": {
+        "name": "Kyle O'Quinn",
+        "pos": "C"
+    },
+    "203130": {
+        "name": "Darius Johnson-Odom",
+        "pos": ""
+    },
+    "203145": {
+        "name": "Kent Bazemore",
+        "pos": "G"
+    },
+    "203176": {
+        "name": "Kyle Fogg",
+        "pos": ""
+    },
+    "203200": {
+        "name": "Justin Holiday",
+        "pos": "F-G"
+    },
+    "203210": {
+        "name": "JaMychal Green",
+        "pos": "F"
+    },
+    "203263": {
+        "name": "James Nunnally",
+        "pos": ""
+    },
+    "203377": {
+        "name": "Ramone Moore",
+        "pos": ""
+    },
+    "203382": {
+        "name": "Aron Baynes",
+        "pos": "C-F"
+    },
+    "203457": {
+        "name": "Nerlens Noel",
+        "pos": "F-C"
+    },
+    "203458": {
+        "name": "Alex Len",
+        "pos": "C"
+    },
+    "203459": {
+        "name": "Allen Crabbe",
+        "pos": "G-F"
+    },
+    "203460": {
+        "name": "Andre Roberson",
+        "pos": "G-F"
+    },
+    "203463": {
+        "name": "Ben McLemore",
+        "pos": ""
+    },
+    "203468": {
+        "name": "CJ McCollum",
+        "pos": "G"
+    },
+    "203469": {
+        "name": "Cody Zeller",
+        "pos": "C"
+    },
+    "203471": {
+        "name": "Dennis Schroder",
+        "pos": "G"
+    },
+    "203473": {
+        "name": "Dewayne Dedmon",
+        "pos": "C"
+    },
+    "203476": {
+        "name": "Gorgui Dieng",
+        "pos": "C"
+    },
+    "203477": {
+        "name": "Isaiah Canaan",
+        "pos": ""
+    },
+    "203482": {
+        "name": "Kelly Olynyk",
+        "pos": "F"
+    },
+    "203484": {
+        "name": "Kentavious Caldwell-Pope",
+        "pos": "G"
+    },
+    "203486": {
+        "name": "Mason Plumlee",
+        "pos": "F-C"
+    },
+    "203487": {
+        "name": "Michael Carter-Williams",
+        "pos": "G"
+    },
+    "203488": {
+        "name": "Mike Muscala",
+        "pos": "F-C"
+    },
+    "203490": {
+        "name": "Otto Porter Jr.",
+        "pos": "F"
+    },
+    "203493": {
+        "name": "Reggie Bullock",
+        "pos": "G-F"
+    },
+    "203496": {
+        "name": "Robert Covington",
+        "pos": "F"
+    },
+    "203497": {
+        "name": "Rudy Gobert",
+        "pos": "C"
+    },
+    "203500": {
+        "name": "Steven Adams",
+        "pos": "C"
+    },
+    "203501": {
+        "name": "Tim Hardaway Jr.",
+        "pos": "G"
+    },
+    "203503": {
+        "name": "Tony Snell",
+        "pos": "G"
+    },
+    "203504": {
+        "name": "Trey Burke",
+        "pos": "G"
+    },
+    "203506": {
+        "name": "Victor Oladipo",
+        "pos": "G"
+    },
+    "203507": {
+        "name": "Giannis Antetokounmpo",
+        "pos": "F"
+    },
+    "203516": {
+        "name": "James Ennis III",
+        "pos": "F"
+    },
+    "203518": {
+        "name": "Alex Abrines",
+        "pos": ""
+    },
+    "203521": {
+        "name": "Matthew Dellavedova",
+        "pos": "G"
+    },
+    "203524": {
+        "name": "Solomon Hill",
+        "pos": "F"
+    },
+    "203526": {
+        "name": "Raul Neto",
+        "pos": "G"
+    },
+    "203546": {
+        "name": "Ian Clark",
+        "pos": "G"
+    },
+    "203552": {
+        "name": "Seth Curry",
+        "pos": "G"
+    },
+    "203564": {
+        "name": "Kalin Lucas",
+        "pos": "G"
+    },
+    "203583": {
+        "name": "Abdul Gaddy",
+        "pos": ""
+    },
+    "203584": {
+        "name": "Troy Daniels",
+        "pos": "G"
+    },
+    "203585": {
+        "name": "Rodney McGruder",
+        "pos": "F-G"
+    },
+    "203613": {
+        "name": "Jonathon Simmons",
+        "pos": "F"
+    },
+    "2037": {
+        "name": "Jamal Crawford",
+        "pos": "G"
+    },
+    "203710": {
+        "name": "C.J. Williams",
+        "pos": "G"
+    },
+    "203805": {
+        "name": "Will Cherry",
+        "pos": ""
+    },
+    "203894": {
+        "name": "Shabazz Napier",
+        "pos": "G"
+    },
+    "203895": {
+        "name": "Jordan McRae",
+        "pos": "G"
+    },
+    "203897": {
+        "name": "Zach LaVine",
+        "pos": "G"
+    },
+    "203901": {
+        "name": "Elfrid Payton",
+        "pos": "G"
+    },
+    "203903": {
+        "name": "Jordan Clarkson",
+        "pos": "G"
+    },
+    "203910": {
+        "name": "Nick Johnson",
+        "pos": ""
+    },
+    "203914": {
+        "name": "Gary Harris",
+        "pos": "G"
+    },
+    "203915": {
+        "name": "Spencer Dinwiddie",
+        "pos": "G"
+    },
+    "203917": {
+        "name": "Nik Stauskas",
+        "pos": "G"
+    },
+    "203918": {
+        "name": "Rodney Hood",
+        "pos": "G"
+    },
+    "203920": {
+        "name": "Khem Birch",
+        "pos": "C"
+    },
+    "203922": {
+        "name": "Glenn Robinson III",
+        "pos": "G-F"
+    },
+    "203924": {
+        "name": "Jerami Grant",
+        "pos": "F"
+    },
+    "203925": {
+        "name": "Joe Harris",
+        "pos": "F-G"
+    },
+    "203926": {
+        "name": "Doug McDermott",
+        "pos": "F"
+    },
+    "203932": {
+        "name": "Aaron Gordon",
+        "pos": "F"
+    },
+    "203933": {
+        "name": "T.J. Warren",
+        "pos": "F"
+    },
+    "203935": {
+        "name": "Marcus Smart",
+        "pos": "G"
+    },
+    "203937": {
+        "name": "Kyle Anderson",
+        "pos": "F"
+    },
+    "203939": {
+        "name": "Dwight Powell",
+        "pos": "F-C"
+    },
+    "203943": {
+        "name": "Noah Vonleh",
+        "pos": "F"
+    },
+    "203944": {
+        "name": "Julius Randle",
+        "pos": "C-F"
+    },
+    "203952": {
+        "name": "Andrew Wiggins",
+        "pos": "F-G"
+    },
+    "203953": {
+        "name": "Jabari Parker",
+        "pos": "F"
+    },
+    "203954": {
+        "name": "Joel Embiid",
+        "pos": "F-C"
+    },
+    "203955": {
+        "name": "Bryce Cotton",
+        "pos": ""
+    },
+    "203957": {
+        "name": "Dante Exum",
+        "pos": "G"
+    },
+    "203960": {
+        "name": "JaKarr Sampson",
+        "pos": ""
+    },
+    "203961": {
+        "name": "Eric Moreland",
+        "pos": "F-C"
+    },
+    "203967": {
+        "name": "Dario Saric",
+        "pos": "F"
+    },
+    "203991": {
+        "name": "Clint Capela",
+        "pos": "C"
+    },
+    "203992": {
+        "name": "Bogdan Bogdanovic",
+        "pos": "G"
+    },
+    "203994": {
+        "name": "Jusuf Nurkic",
+        "pos": "C"
+    },
+    "203998": {
+        "name": "Bruno Caboclo",
+        "pos": "F"
+    },
+    "203999": {
+        "name": "Nikola Jokic",
+        "pos": "C"
+    },
+    "204001": {
+        "name": "Kristaps Porzingis",
+        "pos": "F-C"
+    },
+    "204020": {
+        "name": "Tyler Johnson",
+        "pos": "G"
+    },
+    "204025": {
+        "name": "Tim Frazier",
+        "pos": "G"
+    },
+    "204033": {
+        "name": "David Wear",
+        "pos": ""
+    },
+    "204038": {
+        "name": "Langston Galloway",
+        "pos": "G"
+    },
+    "204060": {
+        "name": "Joe Ingles",
+        "pos": "F"
+    },
+    "204076": {
+        "name": "Richard Solomon",
+        "pos": ""
+    },
+    "204456": {
+        "name": "T.J. McConnell",
+        "pos": "G"
+    },
+    "2199": {
+        "name": "Tyson Chandler",
+        "pos": "C"
+    },
+    "2200": {
+        "name": "Pau Gasol",
+        "pos": "C-F"
+    },
+    "2216": {
+        "name": "Zach Randolph",
+        "pos": ""
+    },
+    "2225": {
+        "name": "Tony Parker",
+        "pos": "G"
+    },
+    "2403": {
+        "name": "Nene ",
+        "pos": "C-F"
+    },
+    "2544": {
+        "name": "LeBron James",
+        "pos": "F"
+    },
+    "2546": {
+        "name": "Carmelo Anthony",
+        "pos": ""
+    },
+    "2548": {
+        "name": "Dwyane Wade",
+        "pos": "G"
+    },
+    "2585": {
+        "name": "Zaza Pachulia",
+        "pos": "C"
+    },
+    "2594": {
+        "name": "Kyle Korver",
+        "pos": "G-F"
+    },
+    "2617": {
+        "name": "Udonis Haslem",
+        "pos": "F"
+    },
+    "27003": {
+        "name": "Yue Wang",
+        "pos": ""
+    },
+    "2730": {
+        "name": "Dwight Howard",
+        "pos": "C"
+    },
+    "2731": {
+        "name": "Emeka Okafor",
+        "pos": ""
+    },
+    "2733": {
+        "name": "Shaun Livingston",
+        "pos": "G"
+    },
+    "2734": {
+        "name": "Devin Harris",
+        "pos": "G"
+    },
+    "2735": {
+        "name": "Josh Childress",
+        "pos": ""
+    },
+    "2736": {
+        "name": "Luol Deng",
+        "pos": "F"
+    },
+    "2738": {
+        "name": "Andre Iguodala",
+        "pos": "G-F"
+    },
+    "2747": {
+        "name": "JR Smith",
+        "pos": "G-F"
+    },
+    "2760": {
+        "name": "Anderson Varejao",
+        "pos": ""
+    },
+    "2772": {
+        "name": "Trevor Ariza",
+        "pos": "F"
+    },
+    "55086": {
+        "name": "Eric Stuteville",
+        "pos": ""
+    },
+    "64001": {
+        "name": "Amit Alon",
+        "pos": ""
+    },
+    "64002": {
+        "name": "Juan Carlos Bergel",
+        "pos": ""
+    },
+    "64004": {
+        "name": "Keron DeShields",
+        "pos": ""
+    },
+    "64005": {
+        "name": "Ariel Eslava",
+        "pos": ""
+    },
+    "64006": {
+        "name": "Anthony Fisher",
+        "pos": ""
+    },
+    "64007": {
+        "name": "Samme Givens",
+        "pos": ""
+    },
+    "64010": {
+        "name": "Daniel Koperberg",
+        "pos": ""
+    },
+    "64011": {
+        "name": "Guy Lavie",
+        "pos": ""
+    },
+    "64012": {
+        "name": "Liran Merkado",
+        "pos": ""
+    },
+    "64013": {
+        "name": "Roman Sorkin",
+        "pos": ""
+    },
+    "64015": {
+        "name": "Willy Workman",
+        "pos": ""
+    },
+    "64019": {
+        "name": "Sam Short",
+        "pos": ""
+    },
+    "64020": {
+        "name": "Peter Hooley",
+        "pos": ""
+    },
+    "64021": {
+        "name": "Craig Moller",
+        "pos": ""
+    },
+    "64022": {
+        "name": "Mitch McCarron",
+        "pos": ""
+    },
+    "64023": {
+        "name": "Tohi Smith-Milner",
+        "pos": ""
+    },
+    "64024": {
+        "name": "Daniel Trist",
+        "pos": ""
+    },
+    "64026": {
+        "name": "David Barlow",
+        "pos": ""
+    },
+    "64028": {
+        "name": "Sam McDaniel",
+        "pos": ""
+    },
+    "64029": {
+        "name": "Alex Pledger",
+        "pos": ""
+    },
+    "64030": {
+        "name": "Chris Goulding",
+        "pos": ""
+    },
+    "64034": {
+        "name": "Nick Kay",
+        "pos": ""
+    },
+    "64035": {
+        "name": "Greg Hire",
+        "pos": ""
+    },
+    "64036": {
+        "name": "Mitch Norton",
+        "pos": ""
+    },
+    "64038": {
+        "name": "Angus Brandt",
+        "pos": ""
+    },
+    "64039": {
+        "name": "Tomer Jervis",
+        "pos": ""
+    },
+    "64041": {
+        "name": "Jesse Wagstaff",
+        "pos": ""
+    },
+    "64042": {
+        "name": "Rhys Vague",
+        "pos": ""
+    },
+    "64043": {
+        "name": "Clint Steindl",
+        "pos": ""
+    },
+    "64044": {
+        "name": "Damian Martin",
+        "pos": ""
+    },
+    "64049": {
+        "name": "Kyle Adnam",
+        "pos": ""
+    },
+    "64051": {
+        "name": "Tomer Wilson",
+        "pos": ""
+    },
+    "64054": {
+        "name": "Kevin Lisch",
+        "pos": ""
+    },
+    "64056": {
+        "name": "Daniel Kickert",
+        "pos": ""
+    },
+    "64057": {
+        "name": "Dane Pineau",
+        "pos": ""
+    },
+    "64058": {
+        "name": "Deng Acuoth",
+        "pos": ""
+    },
+    "64062": {
+        "name": "Adris De Leon",
+        "pos": ""
+    },
+    "64063": {
+        "name": "Brendan Teys",
+        "pos": ""
+    },
+    "64067": {
+        "name": "Majok Deng",
+        "pos": ""
+    },
+    "64068": {
+        "name": "Adam Doyle",
+        "pos": ""
+    },
+    "64069": {
+        "name": "Nathan Sobey",
+        "pos": ""
+    },
+    "64070": {
+        "name": "Daniel Johnson",
+        "pos": ""
+    },
+    "64071": {
+        "name": "Anthony Drmic",
+        "pos": ""
+    },
+    "64076": {
+        "name": "Finn Delany",
+        "pos": ""
+    },
+    "64077": {
+        "name": "Armani Moore",
+        "pos": ""
+    },
+    "64078": {
+        "name": "Shea Ili",
+        "pos": ""
+    },
+    "64081": {
+        "name": "Jordan Ngatai",
+        "pos": ""
+    },
+    "64083": {
+        "name": "Majok Majok",
+        "pos": ""
+    },
+    "64085": {
+        "name": "Tai Wesley",
+        "pos": ""
+    },
+    "64086": {
+        "name": "Jarrad Weeks",
+        "pos": ""
+    },
+    "64090": {
+        "name": "Yan Peng",
+        "pos": ""
+    },
+    "64091": {
+        "name": "Cai Liang",
+        "pos": ""
+    },
+    "64092": {
+        "name": "Huang Xu",
+        "pos": ""
+    },
+    "64093": {
+        "name": "Luis Scola",
+        "pos": ""
+    },
+    "64094": {
+        "name": "Tang Zihao",
+        "pos": ""
+    },
+    "64095": {
+        "name": "Tian Yuchen",
+        "pos": ""
+    },
+    "64096": {
+        "name": "Lu Wei",
+        "pos": ""
+    },
+    "64097": {
+        "name": "Luo Xudong",
+        "pos": ""
+    },
+    "64098": {
+        "name": "Dong Hanlin",
+        "pos": ""
+    },
+    "64099": {
+        "name": "Zhu Ying",
+        "pos": ""
+    },
+    "64100": {
+        "name": "Zhang Zhaoxu",
+        "pos": ""
+    },
+    "64101": {
+        "name": "Wang Tong",
+        "pos": ""
+    },
+    "64102": {
+        "name": "Luo Zhi",
+        "pos": ""
+    },
+    "64104": {
+        "name": "Luo Hanchen",
+        "pos": ""
+    },
+    "64110": {
+        "name": "Aaron Lee Jackson",
+        "pos": ""
+    },
+    "64111": {
+        "name": "Xiaochuan Zhai",
+        "pos": ""
+    },
+    "64112": {
+        "name": "Shuo Fang",
+        "pos": ""
+    },
+    "64113": {
+        "name": "Yanxi Zhu",
+        "pos": ""
+    },
+    "64114": {
+        "name": "Xiaoyu Liu",
+        "pos": ""
+    },
+    "64115": {
+        "name": "Lin Chang",
+        "pos": ""
+    },
+    "64117": {
+        "name": "Songtao Zhang",
+        "pos": ""
+    },
+    "64118": {
+        "name": "Jiangpeng Duan",
+        "pos": ""
+    },
+    "64119": {
+        "name": "Cairen Zhang",
+        "pos": ""
+    },
+    "64120": {
+        "name": "Xu Wang",
+        "pos": ""
+    },
+    "64121": {
+        "name": "Jianiyou Taruike",
+        "pos": ""
+    },
+    "64122": {
+        "name": "Hongrui Duan",
+        "pos": ""
+    },
+    "64123": {
+        "name": "Xinlei Wang",
+        "pos": ""
+    },
+    "64124": {
+        "name": "Ziyi Zhao",
+        "pos": ""
+    },
+    "64125": {
+        "name": "Zhuo Zhang",
+        "pos": ""
+    },
+    "64126": {
+        "name": "Haofeng Sun",
+        "pos": ""
+    },
+    "64127": {
+        "name": "Zanyu Chen",
+        "pos": ""
+    },
+    "64128": {
+        "name": "Yanman Zhao",
+        "pos": ""
+    },
+    "64132": {
+        "name": "Shirelijian Muxtar",
+        "pos": ""
+    },
+    "64133": {
+        "name": "Yongpeng Zhang",
+        "pos": ""
+    },
+    "64135": {
+        "name": "Kai Guo",
+        "pos": ""
+    },
+    "64136": {
+        "name": "Tianyi Yao",
+        "pos": ""
+    },
+    "64137": {
+        "name": "Zhun Zheng",
+        "pos": ""
+    },
+    "64138": {
+        "name": "Yifeng Heng",
+        "pos": ""
+    },
+    "64139": {
+        "name": "Kun Si",
+        "pos": ""
+    },
+    "64140": {
+        "name": "Ying-Chun Chen",
+        "pos": ""
+    },
+    "64141": {
+        "name": "Mingxu Ju",
+        "pos": ""
+    },
+    "64142": {
+        "name": "David Rossetto",
+        "pos": ""
+    },
+    "64143": {
+        "name": "Franco Balbi",
+        "pos": ""
+    },
+    "64144": {
+        "name": "Jhonatan Luz",
+        "pos": ""
+    },
+    "64145": {
+        "name": "Kevin Crescenzi",
+        "pos": ""
+    },
+    "64146": {
+        "name": "Deryk Ramos",
+        "pos": ""
+    },
+    "64149": {
+        "name": "Rafael Mineiro",
+        "pos": ""
+    },
+    "64152": {
+        "name": "David Nesbitt",
+        "pos": ""
+    },
+    "64155": {
+        "name": "Joao Vitor",
+        "pos": ""
+    }
+}
