@@ -1,0 +1,11 @@
+Notes to self:
+
+In order to use installer, must have installed pyinstaller
+
+"pip install pyinstaller"
+
+Command used to create standalone executable with pip installer:
+
+"pyinstaller -F NBARestJson.py"
+
+-F argument used to create one file executable
