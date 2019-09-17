@@ -10,8 +10,8 @@ from sklearn.metrics import accuracy_score
 
 
 print ("hello beatriz")
-dataset = pd.read_csv('diabetes.csv')
-print ("Data Set Length: " + len(dataset))
+dataset = pd.read_csv('KNN_Dataset.csv')
+print ("Data Set Length: " + str(len(dataset)))
 print (dataset.head())
 
 #replace zeroes
@@ -32,4 +32,13 @@ X_train = sc_X.fit_transform(X_train)
 X_test = sc_X.transform(X_test)
 
 #Define the model: Init K-NN
-classifi
+classifier = KNeighborsClassifier(n_neighbors=11, p =2 , metric='euclidean') ##k = sqrt of sample size, round down to odd number
+
+#Fit Model
+classifier.fit(X_train, y_train)
+
+y_pred = classifier.predict(X_test)
+cm = confusion_matrix(y_test,y_pred)
+print(cm)
+print ("F1 Score: " , f1_score(y_test,y_pred))
+print ("Accuracy Score: " , accuracy_score(y_test,y_pred))
